@@ -7,3 +7,6 @@ __pycache__/
 *.pyc
 backend/client_secret.json
 backend/shiftsync.db
+*.db
+.pytest_cache/
+.DS_Store

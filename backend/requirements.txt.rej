@@ -1,0 +1,12 @@
+--- backend/requirements.txt	2026-10-17 12:28:17.092491780 +0000
++++ backend/requirements.txt	2026-10-17 12:28:55.759323051 +0000
+@@ -10,4 +10,8 @@
+ google-api-python-client==2.156.0
+ itsdangerous==2.2.0
+ pytesseract==0.3.13
+-Pillow==11.1.0
++Pillow
++SQLAlchemy==2.0.36
++email-validator==2.2.0
++psycopg[binary]==3.2.3
++python-dotenv==1.0.1
